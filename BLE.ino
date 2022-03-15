@@ -1,3 +1,5 @@
+//This code serves for the BLE communicational channel construction//
+//At the current stage can only works for ELP modules//
 
 #include <BLEDevice.h>
 #include <BLEServer.h>
